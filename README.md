@@ -8,7 +8,7 @@ Hey there! I’m Auva, a final-year Information and System Technology student at
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [auvarifqi@gmail.com](mailto:auvarifqi@gmail.com)
-* 🚀  I'm currently working on [Mostrans (Kalbe Group)](http://https://www.kalbe.co.id/en)
+* 🚀  I'm currently working on [GoTo Financial (GoTo Group)](https://www.gotocompany.com/en)
 * 🧠  I'm learning Full Stack AI
 * 🤝  I'm open to collaborating on Hackathon, Ideathon, Consulting Case, etc.
 * ⚡  If you’re into tech, consulting, or just want to chat about the latest AI trends, hit me up! 🚀
